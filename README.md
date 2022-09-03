@@ -1,7 +1,3 @@
-<h1>Project Screenshot</h1>
-
-![](https://github.com/m-sehrawat/React-Assignment-2/blob/master/public/counter.png)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
