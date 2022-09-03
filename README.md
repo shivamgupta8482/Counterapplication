@@ -1,6 +1,6 @@
 <h1>Project Screenshot</h1>
 
-<img src="" />
+![](https://github.com/m-sehrawat/React-Assignment-2/blob/master/public/counter.png)
 
 # Getting Started with Create React App
 
